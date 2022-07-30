@@ -7,6 +7,10 @@ permalink: /presentations/
 
 <ol class="pub-list">
     <li>
+        <span class="pub-title">Visualizing Your Data for the Web using D3.js.</span>
+        <span class="pub-loc">Failed it to Nailed it: Nailing your Data Visualisation: Training Workshop</span>, University of Southampton, United Kingdom, July 2022.
+    </li>
+    <li>
       <span class="pub-title">Visualizing Humanities Datasets.</span>
       <span class="pub-loc">School of Computing</span>, Newcastle University, United Kingdom, Jan 2022.
     </li>
