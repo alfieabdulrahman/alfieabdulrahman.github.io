@@ -1,0 +1,86 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Helpers
+@import
+  'helpers/variables',
+  'helpers/mixins';
+
+// Base
+@import
+  'base/reset';
+
+// Utilities
+@import
+  'utilities/layout';
+
+// Components
+@import
+  'components/header',
+  'components/navigation',
+  'components/article',
+  'components/archives',
+  'components/social',
+  'components/buttons',
+  'components/footer';
+
+// Themes
+@import
+  'themes/blue',
+  'themes/green',
+  'themes/grey',
+  'themes/orange',
+  'themes/purple';
+
+// Vendor
+@import
+  'vendor/syntax-highlighting';
+
+.c-footer {
+  background: none;
+  height: 200px;
+}
+
+.c-article__main {
+  max-width: 116rem;
+}
+
+.pub-title {
+  color: #993300;
+  font-weight: bold;
+}
+
+.pub-loc {
+  font-style: italic;
+}
+
+.pub-list li {
+  margin-bottom: 5px;
+}
+
+.year {
+  margin-left: -35px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 220px 80%;
+  grid-column-gap: 15px;
+  grid-row-gap: 30px;
+}
+
+.grid-container-images {
+  display: grid;
+  grid-template-columns: 150px 85%;
+  grid-column-gap: 15px;
+  grid-row-gap: 30px;
+}
+
+.grid-container-projects {
+  display: grid;
+  grid-template-columns: 80px 95%;
+  grid-column-gap: 15px;
+  grid-row-gap: 50px;
+}
