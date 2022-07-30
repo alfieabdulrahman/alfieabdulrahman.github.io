@@ -50,13 +50,13 @@ permalink: /publications/
       <span class="pub-author">M. Chen, D. Ebert, L. Padilla, Y. Zhang, and A. Abdul-Rahman.</span>
       In <span class="pub-loc">IEEE VIS Panel 2021</span>.
       <a href="http://thisisalfie.com/vis-combating-covid19.html">[Web page]</a>
-      <a href="./pdf/VIS2021_Panel___What_is_the_role_of_VIS_in_combating_COVID_19_.pdf" target="_blank">[PDF]</a>
+      <a href="{{site.baseurl}}/pdf/VIS2021_Panel___What_is_the_role_of_VIS_in_combating_COVID_19_.pdf" target="_blank">[PDF]</a>
     </li>
     <li>
       <span class="pub-title">VisGuided: A Community-driven Approach for Education in Visualization.</span>
       <span class="pub-author">A. Diehl, E. E. Firat, T. Torsney-Weir, A. Abdul-Rahman, B. Bach, R. S. Laramee, R. Pajarola, and M. Chen</span>
       In <span class="pub-loc">Eurographics Education Papers</span>, Eurographics 2021 (EG 2021), 3-7 May 2021, Vienna, Austria.
-      <a href="./pdf/diehl21visguided.pdf">[Preprint PDF]</a>
+      <a href="{{site.baseurl}}/pdf/diehl21visguided.pdf">[Preprint PDF]</a>
     </li>
     <h3 class="year">2020</h3>
     <li>
@@ -64,7 +64,7 @@ permalink: /publications/
       <span class="pub-author">A. Abdul-Rahman, M. Chen, and D. H. Laidlaw.</span>
       In <span class="pub-loc"><a href="https://www.springer.com/gb/book/9783030344436">Foundations of Data Visualization</a></span>,
       Springer, 2020, ISBN 978-3-030-34444-3.
-      <a href="./pdf/Chapter7-Var.pdf">[Preprint PDF]</a>
+      <a href="{{site.baseurl}}/pdf/Chapter7-Var.pdf">[Preprint PDF]</a>
     </li>
     <li>
       <span class="pub-title">The Huge Variable Space in Empirical Studies for Visualization - A Challenge as well as an Opportunity for Visualization Psychology.</span>
@@ -89,7 +89,7 @@ permalink: /publications/
       <span class="pub-author">B. Fisher, P. Isenberg, D. H. Laidlaw, M. Tory, D. Weiskopf, and A. Abdul-Rahman.</span>
       In <span class="pub-loc">IEEE VIS Panel</span>, Vancouver, Canada, 20-25 Oct, 2019.
       <a href="http://thisisalfie.com/top-research-questions.html">[Web page]</a>
-      <a href="./pdf/Top_Research_Questions_for_Empirical_Studies_in_Visualization.pdf" target="_blank">[PDF]</a>
+      <a href="{{site.baseurl}}/pdf/Top_Research_Questions_for_Empirical_Studies_in_Visualization.pdf" target="_blank">[PDF]</a>
     </li>
     <li>
       <span class="pub-title">Marshalling the Many Facets of Diversity.</span>
@@ -103,7 +103,7 @@ permalink: /publications/
       <span class="pub-title">VISupply: A Supply Chain Framework for Visualization Guidelines.</span>
       <span class="pub-author">U. Engelke, A. Abdul-Rahman, and M. Chen.</span>
       In <span class="pub-loc">4th International Symposium in Big Data Visual and Immersive Analytics</span>, 2018.
-      <a href="./pdf/visupply-supply-chain.pdf" target="_blank">[PDF]</a>
+      <a href="{{site.baseurl}}/pdf/visupply-supply-chain.pdf" target="_blank">[PDF]</a>
     </li>
     <li>
       <span class="pub-title">VisGuides: A Forum for Discussing Visualization Guidelines.</span>
