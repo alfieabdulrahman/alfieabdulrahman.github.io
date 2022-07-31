@@ -40,7 +40,7 @@ permalink: /projects/
       </a>
     </div>
     <div class="media-body">
-      <h4 class="media-heading"><a href="sp-pcp.html" target="_blank">Study on Scatter Plots and Parallel Coordinates Plots</a></h4>
+      <h4 class="media-heading"><a href="https://alfieabdulrahman.github.io/sp-pcp/" target="_blank">Study on Scatter Plots and Parallel Coordinates Plots</a></h4>
       <p>A multi-task comparative study on scatter plots and parallel coordinates plots.</p>
     </div>
     
