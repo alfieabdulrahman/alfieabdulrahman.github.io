@@ -49,7 +49,7 @@ permalink: /publications/
       <span class="pub-title">What is the Role of VIS in Combating COVID-19?</span>
       <span class="pub-author">M. Chen, D. Ebert, L. Padilla, Y. Zhang, and A. Abdul-Rahman.</span>
       In <span class="pub-loc">IEEE VIS Panel 2021</span>.
-      <a href="http://thisisalfie.com/vis-combating-covid19.html">[Web page]</a>
+      <a href="https://alfieabdulrahman.github.io/vis-combating-covid19/">[Web page]</a>
       <a href="{{site.baseurl}}/pdf/VIS2021_Panel___What_is_the_role_of_VIS_in_combating_COVID_19_.pdf" target="_blank">[PDF]</a>
     </li>
     <li>
@@ -88,7 +88,7 @@ permalink: /publications/
       <span class="pub-title">Top Research Questions for Empirical Studies in Visualization.</span>
       <span class="pub-author">B. Fisher, P. Isenberg, D. H. Laidlaw, M. Tory, D. Weiskopf, and A. Abdul-Rahman.</span>
       In <span class="pub-loc">IEEE VIS Panel</span>, Vancouver, Canada, 20-25 Oct, 2019.
-      <a href="http://thisisalfie.com/top-research-questions.html">[Web page]</a>
+      <a href="https://alfieabdulrahman.github.io/top-research-questions/">[Web page]</a>
       <a href="{{site.baseurl}}/pdf/Top_Research_Questions_for_Empirical_Studies_in_Visualization.pdf" target="_blank">[PDF]</a>
     </li>
     <li>
