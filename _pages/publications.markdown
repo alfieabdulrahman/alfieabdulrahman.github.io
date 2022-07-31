@@ -234,7 +234,6 @@ permalink: /publications/
       <span class="pub-title">Cascaded Dynamic Templates for Active Documents.</span>
       <span class="pub-author">J. Lumley and A. Abdul-Rahman.</span>
       In <span class="pub-loc">Tech. Report HPL-2009-143</span>, 2009.
-      <a href="http://www.hpl.hp.com/techreports/2009/HPL-2009-143.pdf" target="_blank">[PDF]</a>
     </li>
     <li>
       <span class="pub-title">Automatic Pagination of HTML Documents in a Web Browser.</span>
