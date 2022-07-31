@@ -240,7 +240,6 @@ permalink: /publications/
       <span class="pub-title">Automatic Pagination of HTML Documents in a Web Browser.</span>
       <span class="pub-author">A. Abdul-Rahman, R. Gimson and J. Lumley.</span>
       In <span class="pub-loc">Tech. Report HPL-2009-123</span>, 2009.
-      <a href="http://www.hpl.hp.com/techreports/2009/HPL-2009-123.pdf" target="_blank">[PDF]</a>
     </li>
     <h3 class="year">2008</h3>
     <li>
