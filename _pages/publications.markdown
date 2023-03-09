@@ -6,7 +6,35 @@ permalink: /publications/
 <h2>Publications</h2>
 
 <ol class="pub-list">
+	<h3 class="year">2023</h3>
+    <li>
+      <span class="pub-title">Measuring Effects of Spatial Visualization and Domain on Visualization Task Performance: A
+Comparative Study.</span>
+      <span class="pub-author">S. Tandon, A. Abdul-Rahman, and R. Borgo.</span>
+      In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, 29(1): 668-678, Jan 2023. (Presented at <em>IEEE VIS 2022</em>.)
+      <a href="https://doi.org/10.1109/TVCG.2022.3209491" target="_blank">[DOI]</a>
+    </li>
+    <li>
+      <span class="pub-title">Dashboards Design Patterns.</span>
+      <span class="pub-author">B. Bach. E. Freeman, A. Abdul-Rahman, C. Turkay, S. Khan, Y. Fan, and M. Chen.</span>
+      In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, 29(1):342-352, Jan 2023. (Presented at <em>IEEE VIS 2022</em>.)
+	  <strong>[Best Paper Honorable Mention Award]</strong>
+      <a href="https://doi.org/10.1109/TVCG.2022.3209448" target="_blank">[DOI]</a>
+    </li>
+	<li>
+	</li>
     <h3 class="year">2022</h3>
+    <li>
+      <span class="pub-title">Effect of Spatial Visualization on Recall of Bar Charts.</span>
+      <span class="pub-author">S. Tandon, A. Abdul-Rahman, and R. Borgo.</span>
+      In <span class="pub-loc">IEEE VIS 2022 (Poster)</span>.
+    </li>
+    <li>
+      <span class="pub-title">Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations.</span>
+      <span class="pub-author">J. Dykes, A. Abdul-Rahman, D. Archambault, B. Bach, R. Borgo, M. Chen, J. Enright, H. Fang, E. E. Firat, E. Freeman, T. Gonen, C. Harris, R. Jianu, N. W. John, S. Khan, A. Lahiff, R. S. Laramee, L. Matthews, S. Mohr, P. H. Nguyen, A. A. M. Rahat, R. Reeve, P. D. Ritsos, J. C. Roberts, A. Slingsby, B. Swallow, T. Torsney-Weir, C. Turkay, R. Turner, F. P. Vidal, Q. Wang, J. Wood, and K. Xu.</span>
+      In <span class="pub-loc">Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</span>, 380(2233), 20210299. 2022.
+      <a href="https://doi.org/10.1098/rsta.2021.0299" target="_blank">[DOI]</a>
+    </li>
     <li>
       <span class="pub-title">A Design Study of Visualizing Historical Book Movement.</span>
       <span class="pub-author">Y. Xing, C. Dondi, R. Borgo, and A. Abdul-Rahman.</span>
@@ -16,13 +44,12 @@ permalink: /publications/
     <li>
       <span class="pub-title">Rapid Development of a Data Visualization Service in an Emergency Response.</span>
       <span class="pub-author">S. Khan, P. H. Nguyen, A. Abdul-Rahman, E. Freeman, C. Turkay, and M. Chen.</span>
-      In <span class="pub-loc">IEEE Transactions on Services Computing</span>, 15(3): 1251-1264, May/June 2022..
+      In <span class="pub-loc">IEEE Transactions on Services Computing</span>, 15(3): 1251-1264, May/June 2022.
       <a href="https://doi.org/10.1109/TSC.2022.3164146" target="_blank">[DOI]</a>
     </li>
     <li>
       <span class="pub-title">RAMPVIS: Answering the Challenges of Building Visualisation Capabilities for Large-scale Emergency Responses.</span>
-      <span class="pub-author">M. Chen, A. Abdul-Rahman, D. Archambault, J. Dykes, A. Slingsby, P. D. Ritsos, T. Torsney-Weir, C. Turkay, B. Bach,
-        R. Borgo, A. Brett, H. Fang, R. Jianu, S. Khan, R. S. Laramee, P. H. Nguyen, R. Reeve, J. C. Robert, F. Vidal, Q. Wang, J. Wood, and K. Xu.</span>
+      <span class="pub-author">M. Chen, A. Abdul-Rahman, D. Archambault, J. Dykes, A. Slingsby, P. D. Ritsos, T. Torsney-Weir, C. Turkay, B. Bach, R. Borgo, A. Brett, H. Fang, R. Jianu, S. Khan, R. S. Laramee, P. H. Nguyen, R. Reeve, J. C. Robert, F. Vidal, Q. Wang, J. Wood, and K. Xu.</span>
       In <span class="pub-loc">Epidemics</span>, vol. 39, no. 100569, 2022.
       <a href="https://doi.org/10.1016/j.epidem.2022.100569" target="_blank">[DOI]</a>
     </li>
