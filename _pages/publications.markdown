@@ -21,8 +21,6 @@ Comparative Study.</span>
 	  <strong>[Best Paper Honorable Mention Award]</strong>
       <a href="https://doi.org/10.1109/TVCG.2022.3209448" target="_blank">[DOI]</a>
     </li>
-	<li>
-	</li>
     <h3 class="year">2022</h3>
     <li>
       <span class="pub-title">Effect of Spatial Visualization on Recall of Bar Charts.</span>
