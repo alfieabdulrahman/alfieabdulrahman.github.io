@@ -17,7 +17,7 @@ home: true
 	</div>
 	<div class="col-md-9">
 		<h3>Welcome to my website.</h3>
-		<p>Hi, I am a Lecturer in Computer Science at the <a
+		<p>Hi, I am a Senior Lecturer at the <a
 				href="https://www.kcl.ac.uk/nms/depts/informatics/index.aspx" target="_blank">Department of Informatics</a>,
 			<a href="https://www.kcl.ac.uk/index.aspx" target="_blank">King's College London.</a></p>
 		<p>My research interests include:</p>

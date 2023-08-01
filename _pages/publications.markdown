@@ -8,6 +8,40 @@ permalink: /publications/
 <ol class="pub-list">
 	<h3 class="year">2023</h3>
     <li>
+      <span class="pub-title">Bridging Disciplines with Visualization: Fostering Interdisciplinary Collaboration in Computer Science and Beyond with Design Studies</span>
+      <span class="pub-author">Y. Xing, R. Borgo, and A. Abdul-Rahman.</span>
+      In <span class="pub-loc">10th ACM Celebration of Women in Computing: womENcourage 2023 (Poster)</span>.
+    </li>
+    <li>
+      <span class="pub-title">Unveiling the Dispersal of Historical Books from Religious Orders.</span>
+      <span class="pub-author">Y. Xing, D. Yan, C. Dondi, R. Borgo, and A. Abdul-Rahman.</span>
+      In <span class="pub-loc">EuroVis 2023 (Poster)</span>.
+    </li>
+	<li>
+		<span class="pub-title">Identifying Challenges and Opportunities for Intelligent Data-Driven Health Interfaces to Support ONgoing Care.</span>
+	    <span class="pub-author">H. Knoche, A. Abdul-Rahman, L. Clark, V. Curcin, Z. Huo, L. H. Iwaya, O. Lemon, R. Mikulík, T. Neate, A. Roper, M. M. Skovfoged, N. Verdezoto, S. M. Wilson, H. Z.:.</span>
+        In <span class="pub-loc">CHI Extended Abstracts</span>, 2023.
+        <a href="https://doi.org/10.1145/3544549.3573798" target="_blank">[DOI]</a>
+	</li>
+    <li>
+      <span class="pub-title">Exploring Interpersonal Relationships in Historical Voting Records.</span>
+      <span class="pub-author">G. D. Cantareira, Y. Xing, N. Cole, R. Borgo, and A. Abdul-Rahman.</span>
+      In <span class="pub-loc">Computer Graphics Forum</span>, 42(3):211-221, 2023. (Presented in <em>EuroVis 2023</em>.)
+      <a href="https://doi.org/10.1111/cgf.14824" target="_blank">[DOI]</a>
+    </li>
+    <li>
+      <span class="pub-title">Visualizing and Analyzing Voting Records from Historical Documents.</span>
+      <span class="pub-author">G. D. Cantareira, N. Cole, and A. Abdul-Rahman.</span>
+      In <span class="pub-loc">Digital Humanities 2023, </span> Graz, Austria, 2023.
+      <a href="https://zenodo.org/record/7961822" target="_blank">[Book of Abstracts]</a>
+    </li>
+	<li>
+		<span class="pub-title">Visual Task Performance and Spatial Abilities: An Investigation of Artists and Mathematicians.</span>
+	    <span class="pub-author">S. Tandon, A. Abdul-Rahman, and R. Borgo.</span>
+        In <span class="pub-loc">Proceedings ACM SIGCHI Conference on Human Factors in Computing Systems 2023 (CHI)</span>, 2023.
+        <a href="https://doi.org/10.1145/3544548.3580765" target="_blank">[DOI]</a>
+	</li>
+    <li>
       <span class="pub-title">Measuring Effects of Spatial Visualization and Domain on Visualization Task Performance: A
 Comparative Study.</span>
       <span class="pub-author">S. Tandon, A. Abdul-Rahman, and R. Borgo.</span>
