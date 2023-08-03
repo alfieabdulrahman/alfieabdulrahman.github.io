@@ -19,7 +19,7 @@ permalink: /publications/
     </li>
 	<li>
 		<span class="pub-title">Identifying Challenges and Opportunities for Intelligent Data-Driven Health Interfaces to Support Ongoing Care.</span>
-	    <span class="pub-author">H. Knoche, A. Abdul-Rahman, L. Clark, V. Curcin, Z. Huo, L. H. Iwaya, O. Lemon, R. Mikulík, T. Neate, A. Roper, M. M. Skovfoged, N. Verdezoto, S. M. Wilson, H. Z.:.</span>
+	    <span class="pub-author">H. Knoche, A. Abdul-Rahman, L. Clark, V. Curcin, Z. Huo, L. H. Iwaya, O. Lemon, R. Mikulík, T. Neate, A. Roper, M. M. Skovfoged, N. Verdezoto, S. Wilson, and H. Ziadeh.</span>
         In <span class="pub-loc">CHI Extended Abstracts</span>, 2023.
         <a href="https://doi.org/10.1145/3544549.3573798" target="_blank">[DOI]</a>
 	</li>
