@@ -8,7 +8,7 @@ permalink: /publications/
 <ol class="pub-list">
 	<h3 class="year">2023</h3>
     <li>
-      <span class="pub-title">Bridging Disciplines with Visualization: Fostering Interdisciplinary Collaboration in Computer Science and Beyond with Design Studies</span>
+      <span class="pub-title">Bridging Disciplines with Visualization: Fostering Interdisciplinary Collaboration in Computer Science and Beyond with Design Studies.</span>
       <span class="pub-author">Y. Xing, A. Abdul-Rahman, and R. Borgo.</span>
       In <span class="pub-loc">10th ACM Celebration of Women in Computing: womENcourage 2023 (Poster)</span>.
     </li>
