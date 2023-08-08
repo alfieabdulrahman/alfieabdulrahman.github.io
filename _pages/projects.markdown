@@ -6,12 +6,26 @@ permalink: /projects/
 <h2>Projects</h2>
 
 <div class="grid-container-projects">
-
+	
     <div class="grid-item">
-        <img style="height: 80px;" src="{{site.baseurl}}/images/final-quill-network.jpeg" alt="Teaser image of Quill">
+	 	<a href="https://booktracker.nms.kcl.ac.uk/" target="_blank">
+			<img style="height: 80px;" src="{{site.baseurl}}/images/booktracker-teaser.png" alt="Teaser image of BookTracker">
+		</a>
     </div>
     <div class="grid-item">
-      <h4 class="media-heading">Narrating Complexity: Exploring Multi-Actor Timelines</h4>
+      <h4 class="media-heading"><a href="https://booktracker.nms.kcl.ac.uk/" target="_blank">BookTracker</a></h4>
+      <p>Booktracker is an ongoing research project dedicated to the design and development of visualization tools to assist historical book researchers through variate visual representations of the MEI data.</p>
+    </div> 
+    
+    <!-- -->
+
+    <div class="grid-item">
+	 	<a href="https://narrating-complexity.github.io/" target="_blank">
+			<img style="height: 80px;" src="{{site.baseurl}}/images/final-quill-network.jpeg" alt="Teaser image of Quill">
+		</a>
+    </div>
+    <div class="grid-item">
+      <h4 class="media-heading"><a href="https://narrating-complexity.github.io/" target="_blank">Narrating Complexity: Exploring Multi-Actor Timelines</a></h4>
       <p>An EPSRC project on exploring and mapping how conversations in formal settings and on social media unfold over time.</p>
       <p>
       <a href="https://informatics.london/stories/he-said-she-said/" target="_blank">[Info]</a>
