@@ -21,7 +21,7 @@
 title: Alfie Abdul-Rahman
 email: alfie.abdulrahman "@" kcl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Website - Alfie Abdul-Rahman - A Lecturer in Computer Science at King's College London
+  Website - Alfie Abdul-Rahman - A Senior Lecturer in Computer Science at King's College London
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thisisalfie
