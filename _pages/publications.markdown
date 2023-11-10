@@ -10,7 +10,7 @@ permalink: /publications/
 	<li>
 		<span class="pub-title">Visualizing Historical Book Trade Data: An Iterative Design Study with Close Collaboration with Domain Experts.</span> 
 		<span class="pub-author">Y. Xing, C. Dondi, R. Borgo, and A. Abdul-Rahman.</span>
-		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, Jan 2024. (Presentation at <em>IEEE VIS 2023</em>.)
+		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, Jan 2024. (Presented at <em>IEEE VIS 2023</em>.)
 	</li>
 	<h3 class="year">2023</h3>
 	<li>
