@@ -6,7 +6,48 @@ permalink: /publications/
 <h2>Publications</h2>
 
 <ol class="pub-list">
+	<h3 class="year">2024</h3>
+	<li>
+		<span class="pub-title">Visualizing Historical Book Trade Data: An Iterative Design Study with Close Collaboration with Domain Experts.</span> 
+		<span class="pub-author">Y. Xing, C. Dondi, R. Borgo, and A. Abdul-Rahman.</span>
+		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, Jan 2024. (Presentation at <em>IEEE VIS 2023</em>.)
+	</li>
 	<h3 class="year">2023</h3>
+	<li>
+		<span class="pub-title">Supporting Diverse Research Methods for Observing Huge Variable Space in Empirical Studies for Visualization.</span> 
+		<span class="pub-author">A. Abdul-Rahman, M. Chen, D. Laidlaw, and B. Fisher.</span>
+		In <span class="pub-loc">Visualization Psychology</span>, D. Albers Szafir, R. Borgo, M. Chen, D. J. Edwards, B. Fisher, L. Padilla (eds), Springer, Cham, 2023.
+	</li>
+	<li>
+		<span class="pub-title">Rapid Development of a Data Visualization Service in an Emergency Response.</span> 
+		<span class="pub-author">S. Khan, P. Nguyen, A. Abdul-Rahman, E. Freeman, C. Turkay, M. Chen.</span>
+		In <span class="pub-loc">IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes) – Bulletin</span>, 2023.
+	</li>
+	<li>
+		<span class="pub-title">RAMPVIS: Answering the Challenges of Building Visualisation Capabilities for Large-scale Emergency Responses.</span> 
+		<span class="pub-author">M. Chen, A. Abdul-Rahman, D. Archambault, J. Dykes, A. Slingsby, P. D. Ritsos, T. Torsney-Weir, C. Turkay, B. Bach, R. Borgo, A. Brett, H. Fang, R. Jianu, S. Khan, R. S. Laramee, P. H. Nguyen, R. Reeve, J. C. Roberts, F. Vidal, Q. Wang, J. Wood, K. Xu.</span>
+		In <span class="pub-loc">IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes) – Bulletin</span>, 2023.
+	</li>
+	<li>
+		<span class="pub-title">Propagating Visual Designs to Numerous Plots and Dashboards.</span> 
+		<span class="pub-author">S. Khan, P. Nguyen, A. Abdul-Rahman, B. Bach, M. Chen, E. Freeman, and C. Turkay.</span>
+		In <span class="pub-loc">IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes) – Bulletin</span>, 2023.
+	</li>
+	<li>
+		<span class="pub-title">Hierarchical Timeline Exploration for Collaborative Text Writing.</span>
+		<span class="pub-author">G. Dias Cantareira, Y. Xing, N. Cole, R. Borgo, and A. Abdul-Rahman.</span>
+		In <span class="pub-loc">IEEE VIS Poster</span>, 2023.
+	</li>
+	<li>
+		<span class="pub-title">Effects of Spatial Abilities and Domain on Estimation of Pearson’s Correlation Coefficient.</span> 
+		<span class="pub-author">S. Tandon, A. Abdul-Rahman, and R. Borgo.</span> 
+		In <span class="pub-loc">IEEE VIS Poster</span>, 2023.
+	</li>
+	<li>
+		<span class="pub-title">Visual Analytics based Search-Analyze-Forecast Framework for Epidemiological Time-series Data.</span> 
+		<span class="pub-author">T. Gonen, Y. Xing, C. Turkay, A. Abdul-Rahman, R. Jianu, H. Fang, E. Freeman, F. Vidal, and Min Chen.</span>
+		In <span class="pub-loc">IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes)</span>, 2023.
+	</li>
     <li>
       <span class="pub-title">Bridging Disciplines with Visualization: Fostering Interdisciplinary Collaboration in Computer Science and Beyond with Design Studies.</span>
       <span class="pub-author">Y. Xing, A. Abdul-Rahman, and R. Borgo.</span>
