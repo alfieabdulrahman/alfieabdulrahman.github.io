@@ -8,6 +8,11 @@ permalink: /publications/
 <ol class="pub-list">
 	<h3 class="year">2024</h3>
 	<li>
+		<span class="pub-title">The Impact of Social Media Use on Mental Health and Family Functioning Within Web-Based Communities in Saudi Arabia: Ethnographic Correlational Study.</span> 
+		<span class="pub-author">B. Alwuqaysi, A. Abdul-Rahman, and R. Borgo.</span>
+		In <span class="pub-loc">JMIR Formative Research</span>, 8 (1), 2024.
+	</li>
+	<li>
 		<span class="pub-title">Visualizing Historical Book Trade Data: An Iterative Design Study with Close Collaboration with Domain Experts.</span> 
 		<span class="pub-author">Y. Xing, C. Dondi, R. Borgo, and A. Abdul-Rahman.</span>
 		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, Jan 2024. (Presented at <em>IEEE VIS 2023</em>.)

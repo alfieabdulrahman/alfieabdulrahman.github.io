@@ -7,6 +7,14 @@ permalink: /presentations/
 
 <ol class="pub-list">
     <li>
+        <span class="pub-title">Decoding Data: A Visualization and Visual Analytics Introduction.</span>
+        <span class="pub-loc">School of Infocomm</span>, Republic Polytechnic, Singapore, Jan 2024.
+    </li>
+    <li>
+        <span class="pub-title">Visualizing Complexity: Unveiling Insights Across Diverse Datasets and Design Processes.</span>
+        <span class="pub-loc">Faculty of Computing</span>, Universiti Teknologi Malaysia, Malaysia, Jan 2024.
+    </li>
+    <li>
         <span class="pub-title">Visualizing Your Data for the Web using D3.js.</span>
         <span class="pub-loc">Failed it to Nailed it: Nailing your Data Visualisation: Training Workshop</span>, University of Southampton, United Kingdom, July 2022.
     </li>
