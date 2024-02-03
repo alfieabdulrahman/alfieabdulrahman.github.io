@@ -10,7 +10,7 @@ permalink: /opportunities/
 <p>I am looking to recruit self-motivated PhD students to work with me in the areas of information visualization and visual analytics.
 Look at my <a href="{{ "/publications/" | prepend: site.baseurl }}">publications</a> to get an idea of my interests. Also read general PhD information on
 <a href="https://www.kcl.ac.uk/study-legacy/postgraduate/research-courses/computer-science-research-mphil-phd">Computer Science Research MPhil/PhD</a>
-and <a href="https://www.kcl.ac.uk/study-legacy/postgraduate/research-courses/safe-and-trusted-ai-phd">UKRI Centre for Doctoral Training: Safe & Trusted AI PhD</a>.
+and <a href="https://safeandtrustedai.org/">UKRI Centre for Doctoral Training: Safe & Trusted AI PhD</a>.
 
 <h4>Funding options</h4>
 
@@ -24,11 +24,10 @@ and <a href="https://www.kcl.ac.uk/study-legacy/postgraduate/research-courses/sa
 
 <h4>Current projects</h4>
 
-<p>My currently defined projects can be found <a href="https://www.kcl.ac.uk/informatics/assets/informatics-phd-projects-2020-21.pdf">here</a> and are titled:</p>
+<p>My currently defined projects can be found <a href="https://www.kcl.ac.uk/informatics/postgraduate/research-degrees">here</a> and are titled:</p>
 
 <ul>
 <li>Understanding the Complexity of Negotiations</li>
-<li>Tracing Trust Visual Frameworks for Explainable AI</li>
 </ul>
 
 <h4>Getting in touch</h4>
