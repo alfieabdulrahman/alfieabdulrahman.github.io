@@ -8,6 +8,36 @@ permalink: /publications/
 <ol class="pub-list">
 	<h3 class="year">2024</h3>
 	<li>
+		<span class="pub-title">Visualization Ethics: A Case Study Approach.</span>
+		<span class="pub-author">M. Correll, L. Impett, L. F. Klein, G. Panagiotidou, A. Abdul-Rahman, G. Rockwell.</span>
+		In <span class="pub-loc">Digital Humanities</span>, 2024.
+	</li>
+	<li>
+		<span class="pub-title">Role of Generative Language Model in Enhancing Dental Education.</span>
+		<span class="pub-author">M. Khanzada, P. Zhang, V.-A. Tran, D. Rajapakse, M. Nasseripour, A. Abdul-Rahman, A. Angelova, A. Banerjee, A. Otemade, C. Bentley.</span>
+		In the <span class="pub-loc">2024 Annual Meeting of the Association for Dental Education in Europe (ADEE)</span>.
+	</li>
+	<li>
+		<span class="pub-title">Effects of Spatial Abilities and Domain on Estimation of Pearson's Correlation Coefficient.</span>
+		<span class="pub-author">S. Tandon, A. Abdul-Rahman, and R. Borgo.</span>
+		In <span class="pub-loc">28th International Conference Information Visualisation</span>, 2024.
+	</li>
+	<li>
+		<span class="pub-title">Correlational Data Visualizations with Colored Bar Charts.</span>
+		<span class="pub-author">B. Alwuqaysi, A. Abdul-Rahman, and R. Borgo.</span>
+		In <span class="pub-loc">International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG)</span>, 2024.
+	</li>
+	<li>
+		<span class="pub-title">Visual Analytics for Fine-grained Text Classification Models and Datasets.</span>
+		<span class="pub-author">M. Battogtokh, Y. Xing, C. Davidescu, A. Abdul-Rahman, M. Luck, and R. Borgo.</span>
+		In <span class="pub-loc">Computer Graphics Forum</span>, 2024. (Also invited for presentation at <em>EuroVis 2024</em>.)
+	</li>
+	<li>
+		<span class="pub-title">Interactive Hierarchical Timeline for Collaborative Text Negotiation in Historical Records.</span>
+		<span class="pub-author">Gabriel D. Cantareira, Y. Xing, N. Cole, R. Borgo, and A. Abdul-Rahman.</span>
+		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, 2024. (To be presented at <em>IEEE VIS 2024</em>.)
+	</li>
+	<li>
 		<span class="pub-title">The Impact of Social Media Use on Mental Health and Family Functioning Within Web-Based Communities in Saudi Arabia: Ethnographic Correlational Study.</span> 
 		<span class="pub-author">B. Alwuqaysi, A. Abdul-Rahman, and R. Borgo.</span>
 		In <span class="pub-loc">JMIR Formative Research</span>, 8 (1), 2024.
@@ -15,7 +45,7 @@ permalink: /publications/
 	<li>
 		<span class="pub-title">Visualizing Historical Book Trade Data: An Iterative Design Study with Close Collaboration with Domain Experts.</span> 
 		<span class="pub-author">Y. Xing, C. Dondi, R. Borgo, and A. Abdul-Rahman.</span>
-		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, Jan 2024. (Presented at <em>IEEE VIS 2023</em>.)
+		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, vol. 30, no. 1, pp. 540-550, Jan 2024. (Presented at <em>IEEE VIS 2023</em>.)
 	</li>
 	<h3 class="year">2023</h3>
 	<li>

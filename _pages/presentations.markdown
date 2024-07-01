@@ -6,6 +6,10 @@ permalink: /presentations/
 <h2>Presentations and Workshops</h2>
 
 <ol class="pub-list">
+	<li>
+		<span class="pub-title">Diving into Complexity: Discovering Insights Through Diverse Data and Design Methods.</span> 
+		<span class="pub-loc">UCLIC</span>, University College London, Apr 2024.
+	</li>
     <li>
         <span class="pub-title">Decoding Data: A Visualization and Visual Analytics Introduction.</span>
         <span class="pub-loc">School of Infocomm</span>, Republic Polytechnic, Singapore, Jan 2024.
