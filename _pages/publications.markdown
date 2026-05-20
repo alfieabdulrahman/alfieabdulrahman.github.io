@@ -6,7 +6,74 @@ permalink: /publications/
 <h2>Publications</h2>
 
 <ol class="pub-list">
+	<h3 class="year">2026</h3>
+	<li>
+		<span class="pub-title">Chasing Meaning and/or Insight? A Survey on Evaluation Practices at the Intersection of Visualization and the Humanities.</span> 
+		<span class="pub-author">A. Benito-Santos, F. Windhager, A. H. Ibanez, R. Kleymenn, A. Abdul-Rahman, and E. Mayr.</span> 
+		In <span class="pub-loc">Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</span>, 2026. <strong>[Best Paper Award]</strong>
+	</li>
+	<h3 class="year">2025</h3>
+	<li>
+		<span class="pub-title">Collaborating Across Domains and Roles: An Interview Study of Visualization Design Practices.</span> 
+		<span class="pub-author">Y. Xing, M. T. Ortoleva, R. Borgo, and A. Abdul-Rahman.</span> 
+		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, 32(1): 571 – 581, 2026. (Also invited for presentation at <em>IEEE VIS 2025</em>.)
+	</li>
+	<li>
+		<span class="pub-title">Set Size Matters: Capacity-Limited Perception of Grouped Spatial-Frequency Glyphs.</span> 
+		<span class="pub-author">Y. Li, S. Shao, P. Baudains, A. I. Meso, N. S. Holliman, A. Abdul-Rahman, and R. Borgo.</span> 
+		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, 32(1): 681 – 691, 2026. (Also invited for presentation at <em>IEEE VIS 2025</em>.)
+	</li>
+	<li>
+		<span class="pub-title">OwnershipTracker: A Visual Analytics Approach to Uncovering Historical Book Ownership Patterns.</span> 
+		<span class="pub-author">Y. Xing, M. Ji, C. Dondi, R. Borgo, and A. Abdul-Rahman.</span> 
+		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, 32(1): 966 - 976, 2026. (Also invited for presentation at <em>IEEE VIS 2025</em>.)
+	</li>
+	<li>
+		<span class="pub-title">An Analysis of the Interplay and Mutual Benefits of Grounded Theory and Visualization.</span> 
+		<span class="pub-author">A. Diehl, A. Abdul-Rahman, B. Bach, M. El-Assady, M. Kraus, R. Laramee, D. Keim, and M. Chen.</span> 
+		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, 31(9): 5462 – 5479, 2025. (Also invited for presentation at <em>IEEE VIS 2025</em>.)
+	</li>
+	<li>
+		<span class="pub-title">A Review and Analysis of Evaluation Practices in VIS Domain Applications.</span> 
+		<span class="pub-author">Y. Xing, G. D. Cantareira, R. Borgo, and A. Abdul-Rahman.</span> 
+		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, 31(9):5580 – 5592, 2025. (Also invited for presentation at <em>IEEE VIS 2025</em>.)
+	</li>
 	<h3 class="year">2024</h3>
+	<li>
+		<span class="pub-title">Cross-Cultural Study on Social Media Usage and its Correlation with Mental Health and Family Functioning.</span> 
+		<span class="pub-author">B. Alwuqaysi, A. Abdul-Rahman, and R. Borgo.</span> 
+		In <span class="pub-loc">Computers in Human Behavior Reports</span>, vol. 16, 2024.
+	</li>
+	<li>
+		<span class="pub-title">Reflections on the Evolution of the BookTracker Visualization Platform.</span> 
+		<span class="pub-author">Y. Xing, C. Dondi, R. Borgo, and A. Abdul-Rahman.</span> 
+		In <span class="pub-loc">Computer Graphics & Visual Computing (CGVC)</span>, 2024.
+	</li>
+	<li>
+		<span class="pub-title">Visualizing Complex Data Decisions: Design Study for Ethical Factors in AI Clinical Decision Support Systems.</span> 
+		<span class="pub-author">S. Surodina, D. Volkova, A. Abdul-Rahman, and R. Borgo.</span> 
+		In <span class="pub-loc">Computer Graphics & Visual Computing (CGVC) – short paper</span>, 2024.
+	</li>
+	<li>
+		<span class="pub-title">Visual Interpretation of Tagging: Advancing Understanding in Task-Oriented Dialogue Systems.</span> 
+		<span class="pub-author">Y. Zhou, Y. Xing, A. Abdul-Rahman, and R. Borgo.</span> 
+		In <span class="pub-loc">Computer Graphics & Visual Computing (CGVC)</span>, 2024.
+	</li>
+	<li>
+		<span class="pub-title">Complexity as Design Material.</span> 
+		<span class="pub-author">F. Windhager, A. Abdul-Rahman, M.-J. Bludau, N. Hengesbach, H. Lamqaddam, I. Meirelles, B. Speckmann, and M. Correll.<span> 
+		In <span class="pub-loc">Proceedings of BELIV Workshop: Beyond Time and Errors - Novel Evaluation Methods for Visualization</span>, 2024.
+	</li>
+	<li>
+		<span class="pub-title">scFlowVis: Streamlining scRNA-seq Analysis through Visual Design.</span>
+		<span class="pub-author">Y. Xing, S. Owomero, S. Tsoka, R. Borgo, and A. Abdul-Rahman.<span> 
+		In <span class="pub-loc">IEEE VIS Poster<span>, 2024.
+	</li>
+	<li>
+		<span class="pub-title">Visualizing Content-based Categorization of Social Media Platforms: A Study of UK Users.</span>
+		<span class="pub-author">B. Alwuqaysi, A. Abdul-Rahman, and R. Borgo.</span> 
+		In <span class="pub-loc">Computer Graphics & Visual Computing (CGVC)</span>, 2024.
+	</li>
 	<li>
 		<span class="pub-title">Visualization Ethics: A Case Study Approach.</span>
 		<span class="pub-author">M. Correll, L. Impett, L. F. Klein, G. Panagiotidou, A. Abdul-Rahman, G. Rockwell.</span>
@@ -30,12 +97,12 @@ permalink: /publications/
 	<li>
 		<span class="pub-title">Visual Analytics for Fine-grained Text Classification Models and Datasets.</span>
 		<span class="pub-author">M. Battogtokh, Y. Xing, C. Davidescu, A. Abdul-Rahman, M. Luck, and R. Borgo.</span>
-		In <span class="pub-loc">Computer Graphics Forum</span>, 2024. (Also invited for presentation at <em>EuroVis 2024</em>.)
+		In <span class="pub-loc">Computer Graphics Forum</span>, 43(3): e15098, 2024. (Also invited for presentation at <em>EuroVis 2024</em>.)
 	</li>
 	<li>
 		<span class="pub-title">Interactive Hierarchical Timeline for Collaborative Text Negotiation in Historical Records.</span>
 		<span class="pub-author">Gabriel D. Cantareira, Y. Xing, N. Cole, R. Borgo, and A. Abdul-Rahman.</span>
-		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, 2024. (To be presented at <em>IEEE VIS 2024</em>.)
+		In <span class="pub-loc">IEEE Transactions on Visualization and Computer Graphics</span>, 31(8): 4169 – 4181, 2024. (Presented at <em>IEEE VIS 2024</em>.)
 	</li>
 	<li>
 		<span class="pub-title">The Impact of Social Media Use on Mental Health and Family Functioning Within Web-Based Communities in Saudi Arabia: Ethnographic Correlational Study.</span> 

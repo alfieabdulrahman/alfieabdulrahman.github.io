@@ -7,6 +7,10 @@ permalink: /presentations/
 
 <ol class="pub-list">
 	<li>
+		<span class="pub-title">Navigating Complexity: Uncovering Insights with Diverse Data and Design Approaches.</span>
+		<span class="pub-loc">School of Infocomm</span>, Republic Polytechnic, Singapore, Jan 2025.
+	</li>
+	<li>
 		<span class="pub-title">Diving into Complexity: Discovering Insights Through Diverse Data and Design Methods.</span> 
 		<span class="pub-loc">UCLIC</span>, University College London, Apr 2024.
 	</li>
