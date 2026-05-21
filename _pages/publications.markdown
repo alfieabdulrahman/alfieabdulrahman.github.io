@@ -61,13 +61,13 @@ permalink: /publications/
 	</li>
 	<li>
 		<span class="pub-title">Complexity as Design Material.</span> 
-		<span class="pub-author">F. Windhager, A. Abdul-Rahman, M.-J. Bludau, N. Hengesbach, H. Lamqaddam, I. Meirelles, B. Speckmann, and M. Correll.<span> 
+		<span class="pub-author">F. Windhager, A. Abdul-Rahman, M.-J. Bludau, N. Hengesbach, H. Lamqaddam, I. Meirelles, B. Speckmann, and M. Correll.</span> 
 		In <span class="pub-loc">Proceedings of BELIV Workshop: Beyond Time and Errors - Novel Evaluation Methods for Visualization</span>, 2024.
 	</li>
 	<li>
 		<span class="pub-title">scFlowVis: Streamlining scRNA-seq Analysis through Visual Design.</span>
-		<span class="pub-author">Y. Xing, S. Owomero, S. Tsoka, R. Borgo, and A. Abdul-Rahman.<span> 
-		In <span class="pub-loc">IEEE VIS Poster<span>, 2024.
+		<span class="pub-author">Y. Xing, S. Owomero, S. Tsoka, R. Borgo, and A. Abdul-Rahman.</span> 
+		In <span class="pub-loc">IEEE VIS Poster</span>, 2024.
 	</li>
 	<li>
 		<span class="pub-title">Visualizing Content-based Categorization of Social Media Platforms: A Study of UK Users.</span>
