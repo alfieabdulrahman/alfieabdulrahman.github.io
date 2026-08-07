@@ -17,17 +17,10 @@ and <a href="https://safeandtrustedai.org/">UKRI Centre for Doctoral Training: S
 <ul>
 <li><a href="https://www.kcl.ac.uk/research/funding-opportunities/doctoral-research-opportunities/international-scholarships">King's International PhD Scholarships</a></li>
 <li><a href="https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc">King’s-China Scholarship Council PhD Scholarship programme (K-CSC) (for Chinese nationals)</a></li>
-<li><a href="https://www.kcl.ac.uk/study-legacy/postgraduate/fees-and-funding/student-funding/postgraduate-research-funding/international-student-research-funding">International student research funding</a> (for various overseas countries including Chile, Colombia, Mexico, Turkey, USA, Commonwealth countries, etc.)</li>
-<li>Fully-funded (UK or EU settled) positions for exceptional candidates - funding available as part of my own allocated funding or through other KCL studentships.</li>
+<li><a href="https://www.kcl.ac.uk/study-legacy/postgraduate/fees-and-funding/student-funding/postgraduate-research-funding/international-student-research-funding">International student research funding</a> (for various overseas countries including Chile, Colombia, Mexico, Turkey, USA, etc.)</li>
+<li><a href="https://www.kcl.ac.uk/study/funding/funding-opportunities/commonwealth-phd-scholarships-for-high-income-countries">Commonwealth PhD Scholarships</a></li>
+<li>Fully-funded (UK or EU settled) positions for exceptional candidates - funding available as through other KCL studentships.</li>
 <li>Alternative funding: if you are keen to do a PhD but not sure how to fund, or wish to self-fund, I am happy to work towards putting together applications for PhD fellowships for exceptional candidates.</li>
-</ul>
-
-<h4>Current projects</h4>
-
-<p>My currently defined projects can be found <a href="https://www.kcl.ac.uk/informatics/postgraduate/research-degrees">here</a> and are titled:</p>
-
-<ul>
-<li>Understanding the Complexity of Negotiations</li>
 </ul>
 
 <h4>Getting in touch</h4>
